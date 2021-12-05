@@ -2685,11 +2685,11 @@ input, select, textarea {
 	}
 
 		.features li {
-						padding: 4em 4em 2em 6em ;
+						padding: 2em 2em 2em 2em ;
 			display: block;
 			position: relative;
 			text-align: left;
-			width: 50%;
+			width: 33%;
 		}
 
 			.features li:nth-child(1) {
